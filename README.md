@@ -18,5 +18,5 @@ Its an introduction reposittory for learning github
 how to add a html [apssdc] (https://apssdc.in)
 [ciet college] (https://www.chalapathiengg.ac.in/)
 
-![image] (https://tse3.mm.bing.net/th?id=OIP._o4OMl6yom_BbsBZyu38vgHaGC&pid=Api&P=0&w=207&h=170)
-[image2] (https://tse2.mm.bing.net/th?id=OIP.ZS-vdyrkp78JO3xhczSWyQHaEi&pid=Api&P=0&w=274&h=169)
+- ![image] (https://tse3.mm.bing.net/th?id=OIP._o4OMl6yom_BbsBZyu38vgHaGC&pid=Api&P=0&w=207&h=170)
+- ![image2] (https://tse2.mm.bing.net/th?id=OIP.ZS-vdyrkp78JO3xhczSWyQHaEi&pid=Api&P=0&w=274&h=169)
